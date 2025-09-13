@@ -1,3 +1,2 @@
-FROM alamlinux:9
-CMD ("ping", "goole.com")
-ENTRYPOINT ("google")
+FROM almalinux:9
+CMD ("ping", "google.com")
