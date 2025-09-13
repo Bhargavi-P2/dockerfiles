@@ -1,6 +1,6 @@
 FROM almalinux:9
 LABEL COURSE="DevOps with AWS"
-      TRAINER="Siva"/
-      DURATION="12o hr"/
+      TRAINER="Siva Kumar"\
+      DURATION="12o hr"\
       BHARGAVI="I am Learning this Course"
 com.Bhargavi-P2.dockerfiles.author="Bhargavi"
