@@ -1,3 +1,3 @@
-FROM run:v1
+FROM bhargavi486/run:v1
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
